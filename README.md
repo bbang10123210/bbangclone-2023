@@ -1,3 +1,3 @@
 # bbang clone 2023 practice
 
-CSS got so much fun!
+HTML & CSS got so much fun!
